@@ -22,11 +22,7 @@
 
     <modules>
         <module>eureka-server</module>
-<<<<<<< HEAD
         <module>service-hi</module>
-=======
-<!--        <module>service-hi</module>-->
->>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     </modules>
 
     <properties>
