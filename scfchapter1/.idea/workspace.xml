@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="53298ee6-ccfe-478f-9f35-a1731319c6ed" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/service-hi/target/" />
+=======
+    <list default="true" id="e8325dfb-f046-4466-b07f-e6dd89efcb1a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +20,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
     <option name="isMigrated" value="true" />
+=======
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/service-hi/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+=======
+        <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
             </state>
           </provider>
         </entry>
@@ -31,10 +50,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/eureka-server/src/main/java/top/daoyang/eurekaserver/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
       </list>
     </option>
   </component>
@@ -52,27 +76,63 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+<<<<<<< HEAD
+=======
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sc-f-chapter1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sc-f-chapter1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sc-f-chapter1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-test:2.0.4.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="308" />
     <option name="y" value="63" />
     <option name="width" value="1572" />
     <option name="height" value="1017" />
+=======
+    <option name="x" value="99" />
+    <option name="y" value="-17" />
+    <option name="width" value="1558" />
+    <option name="height" value="961" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="sc-f-chapter1" type="b2602c69:ProjectViewProjectNode" />
               <item name="scfchapter1" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -80,6 +140,15 @@
               <item name="sc-f-chapter1" type="b2602c69:ProjectViewProjectNode" />
               <item name="scfchapter1" type="462c0819:PsiDirectoryNode" />
               <item name="service-hi" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="scfchapter1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scfchapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scfchapter1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scfchapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
             </path>
           </expand>
           <select />
@@ -92,16 +161,24 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+=======
+    <property name="last.edited.regexp" value="*Sample Text" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="http.proxy" />
+=======
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,6 +192,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="eureka-server" />
@@ -142,11 +220,14 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="53298ee6-ccfe-478f-9f35-a1731319c6ed" name="Default Changelist" comment="" />
       <created>1557036641186</created>
       <option name="number" value="Default" />
@@ -157,10 +238,19 @@
       <workItem from="1557039503052" duration="2686000" />
       <workItem from="1557043163676" duration="1444000" />
       <workItem from="1557053096758" duration="610000" />
+=======
+      <changelist id="e8325dfb-f046-4466-b07f-e6dd89efcb1a" name="Default Changelist" comment="" />
+      <created>1557017087812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557017087812</updated>
+      <workItem from="1557017089177" duration="748000" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="7416000" />
   </component>
   <component name="ToolWindowManager">
@@ -200,12 +290,51 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+=======
+    <option name="totallyTimeSpent" value="748000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.24946696" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../../../zg-maven/repo/org/springframework/cloud/spring-cloud-dependencies/Finchley.RELEASE/spring-cloud-dependencies-Finchley.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -277,6 +406,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+=======
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
         </state>
       </provider>
     </entry>
@@ -330,7 +472,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>service-hi</last-edited>
+=======
+          <last-edited>eureka-server</last-edited>
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -343,7 +489,10 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>1.8</last-edited>
+=======
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -364,6 +513,20 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
+=======
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+>>>>>>> c9b975f0a4bceaccf88b67b878ef3535b81a47cb
     </states>
   </component>
 </project>
